@@ -1,7 +1,7 @@
 ## Hello there! I'm Aditya
 
 
-<br> ## MERN Stack Developer | AI Enthusiast | Problem Solver<br>
+<br>MERN Stack Developer | AI Enthusiast | Problem Solver<br>
 
 <br>💻 Building Scalable Web Apps | AI/ML Enthusiast | Full-Stack Developer<br>
 <br>🚀 Currently Focused on MERN Stack, DSA, and AI/ML<br>
